@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hybrid Exam Monitoring</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.11.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd"></script>
+    <script defer src="main.js"></script>
+</head>
+<body class="loading">
+    <div class="controls">
+        <button id="startExam">Start Exam</button>
+        <button id="stopExam" disabled>Stop Exam</button>
+    </div>
+    <video id="video" autoplay muted playsinline></video>
+    <canvas id="canvas"></canvas>
+    <div id="stats">
+        <p>Camera Active Count: <span id="cameraCount">0</span></p>
+        <p>People Detected: <span id="peopleCount">0</span></p>
+        <p>Phones Detected: <span id="phoneCount">0</span></p>
+    </div>
+</body>
+</html>
