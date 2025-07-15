@@ -96,7 +96,10 @@ This project is licensed under the **MIT License**.
 
 ## ✨ Author
 
+**Sagnik Patra**
+**Annan Sadr**
+**Rashi Pandey**
 **Ankush Kumar Ramteke**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • 🌐 [Portfolio](https://yourportfolio.com)
+
 
 > Built to bring trust and integrity into online exams.  
