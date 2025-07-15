@@ -1,7 +1,8 @@
 #  Real-Time Phone & Person Detection
 
-This project uses **YOLOv8**, **Haar Cascades**, and **MediaPipe** to detect cell phones and people in real-time from your webcam feed. It overlays bounding boxes and counts detections live.
+[Play Now](https://procx.netlify.app/)
 
+This project uses **YOLOv8**, **Haar Cascades**, and **MediaPipe** to detect cell phones and people in real-time from your webcam feed. It overlays bounding boxes and counts detections live.
 
 ##  Features
 
