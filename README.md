@@ -10,3 +10,5 @@ This project uses **YOLOv8**, **Haar Cascades**, and **MediaPipe** to detect cel
 -  Optionally integrates MediaPipe for additional face detection.
 -  Displays live statistics of detections on the video feed.
 -  Runs with OpenCV (no Streamlit or matplotlib dependencies).
+
+-  EOF
